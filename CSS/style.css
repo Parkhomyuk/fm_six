@@ -155,9 +155,6 @@ body .wrapper .supstrate .card_content .card_footer .footer_extra_user_name {
   body .wrapper .supstrate {
     height: 100%;
     width: 100%;
-    background-image: url(../design/desktop-design.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
   }
   body .wrapper .supstrate .card_content {
     width: 27%;
