@@ -167,6 +167,7 @@ body .wrapper .supstrate .card_content .card_footer .footer_extra_user_name {
     justify-content: space-around;
     align-items: center;
     padding: 1%;
+    background-color: hsl(215, 32%, 27%);
   }
   body .wrapper .supstrate .card_content .card_image {
     width: 100%;
