@@ -174,9 +174,7 @@ body{
             .supstrate{
                 height: 100%;
                 width: 100%;
-                // background-image: url(../design/desktop-design.jpg);
-                // background-position: center;
-                // background-repeat: no-repeat;
+                background-color: variables.$very-dark-blue-card-BG;
                 .card_content{
                     width: 27%;
                     height: 57%;
@@ -207,7 +205,7 @@ body{
             .supstrate{
                 height: 100%;
                 width: 100%;
-               
+                background-color: variables.$very-dark-blue-card-BG;
                 .card_content{
                     width: 22%;
                     height: 75%;

@@ -155,6 +155,7 @@ body .wrapper .supstrate .card_content .card_footer .footer_extra_user_name {
   body .wrapper .supstrate {
     height: 100%;
     width: 100%;
+    background-color: hsl(216, 50%, 16%);
   }
   body .wrapper .supstrate .card_content {
     width: 27%;
@@ -181,6 +182,7 @@ body .wrapper .supstrate .card_content .card_footer .footer_extra_user_name {
   body .wrapper .supstrate {
     height: 100%;
     width: 100%;
+    background-color: hsl(216, 50%, 16%);
   }
   body .wrapper .supstrate .card_content {
     width: 22%;
